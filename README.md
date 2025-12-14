@@ -9,6 +9,7 @@ Role-based Login:
 <img width="1890" height="789" alt="image" src="https://github.com/user-attachments/assets/7839ea88-f13f-422a-802f-f4e492116491" />
 This screen provides a unified login page where users can sign in either as a regular customer or as an admin using the same email and password form. A “Login as” selector lets the user choose between User and Admin roles before submitting, enabling role-based access control and routing to the appropriate dashboard experience.
 
+ADMIN PAGE 
 Admin Dashboard:
 <img width="1892" height="873" alt="image" src="https://github.com/user-attachments/assets/c967f7c9-0457-473c-aa91-2b1ec492083d" />
 This is the Admin Dashboard for the Sweet Shop Management System, giving administrators a real-time overview of key business metrics such as total revenue, total orders, new customers, and currently active users. The left sidebar provides quick navigation to core management modules like Products, Inventory, Orders, Customers, and Analytics, while the Sales Overview chart visualizes performance trends over the year to support data‑driven decisions.
@@ -33,10 +34,12 @@ Analytics:
 <img width="1889" height="873" alt="image" src="https://github.com/user-attachments/assets/cf19d4d4-e3a0-4d02-a596-95d8d39f3d50" />
 This Analytics screen provides advanced insights into how the sweet shop is performing across key metrics. It shows cards for average order value, conversion rate, total sessions, and bounce rate, along with visual charts for revenue over time and sales by product category, helping admins understand customer behavior and optimize their business strategy.
 
-User Page:
+USER PAGE 
+
 <img width="1897" height="883" alt="image" src="https://github.com/user-attachments/assets/043517e5-1eb0-4489-af39-7fc45067071d" />
 <img width="1877" height="788" alt="image" src="https://github.com/user-attachments/assets/1e4b9599-5cf8-436d-9c02-ef6069fecb4e" />
 This User Sweet Catalog page is the main storefront view that regular users see when browsing the Sweet Shop. It showcases the “Our Sweet Selection” gallery with search, category filtering, and a price range slider so customers can easily discover and explore authentic Indian sweets tailored to their tastes and budget.
+
 
 
 
