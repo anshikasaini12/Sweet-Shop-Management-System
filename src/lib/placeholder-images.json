@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "gulab-jamun",
+      "description": "Deliciously soft and spongy Gulab Jamun soaked in sugar syrup.",
+      "imageUrl": "https://images.unsplash.com/photo-1695568180842-1fcf31187dd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxpbmRpYW4lMjBzd2VldHxlbnwwfHx8fDE3NjU2OTQ1Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian sweet"
+    },
+    {
+      "id": "rasgulla",
+      "description": "Spongy cottage cheese balls soaked in a light and sweet syrup.",
+      "imageUrl": "https://images.unsplash.com/photo-1590671909091-43ff144014fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxpbmRpYW4lMjBzd2VldHN8ZW58MHx8fHwxNzY1NzEzNTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian sweets"
+    },
+    {
+      "id": "jalebi",
+      "description": "Crispy, chewy, and sweet spirals of deep-fried batter soaked in syrup.",
+      "imageUrl": "https://images.unsplash.com/photo-1760263215450-b13943da7e17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxqYWxlYmklMjBkZXNzZXJ0fGVufDB8fHx8MTc2NTcxMzU1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "jalebi dessert"
+    },
+    {
+      "id": "barfi",
+      "description": "A dense milk-based sweet, often flavored with nuts and spices.",
+      "imageUrl": "https://images.unsplash.com/photo-1758910536889-43ce7b3199fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiYXJmaSUyMHN3ZWV0fGVufDB8fHx8MTc2NTcxMzU1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "barfi sweet"
+    },
+    {
+      "id": "ladoo",
+      "description": "Sphere-shaped sweets made from flour, ghee/butter/oil and sugar.",
+      "imageUrl": "https://images.unsplash.com/photo-1720415247385-a8b038c708ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsYWRvbyUyMHN3ZWV0c3xlbnwwfHx8fDE3NjU3MTM1NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ladoo sweets"
+    },
+    {
+      "id": "kaju-katli",
+      "description": "A diamond-shaped sweet made from cashews, sugar, and ghee.",
+      "imageUrl": "https://images.unsplash.com/photo-1699708263762-00ca477760bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxrYWp1JTIwa2F0bGl8ZW58MHx8fHwxNzY1NzEzNTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kaju katli"
+    }
+  ]
+}

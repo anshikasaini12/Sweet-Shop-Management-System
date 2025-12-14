@@ -1,0 +1,58 @@
+import type { Sweet } from '@/lib/types';
+
+export const sweets: Sweet[] = [
+  {
+    id: '1',
+    name: 'Gulab Jamun',
+    description: 'Deliciously soft and spongy Gulab Jamun soaked in sugar syrup.',
+    price: 60,
+    stock: 20,
+    category: 'Milk-based',
+    imageId: 'gulab-jamun',
+  },
+  {
+    id: '2',
+    name: 'Rasgulla',
+    description: 'Spongy cottage cheese balls soaked in a light and sweet syrup.',
+    price: 50,
+    stock: 15,
+    category: 'Milk-based',
+    imageId: 'rasgulla',
+  },
+  {
+    id: '3',
+    name: 'Jalebi',
+    description: 'Crispy, chewy, and sweet spirals of deep-fried batter soaked in syrup.',
+    price: 40,
+    stock: 30,
+    category: 'Fried',
+    imageId: 'jalebi',
+  },
+  {
+    id: '4',
+    name: 'Barfi',
+    description: 'A dense milk-based sweet, often flavored with nuts and spices.',
+    price: 70,
+    stock: 25,
+    category: 'Milk-based',
+    imageId: 'barfi',
+  },
+  {
+    id: '5',
+    name: 'Ladoo',
+    description: 'Sphere-shaped sweets made from flour, ghee/butter/oil and sugar.',
+    price: 45,
+    stock: 40,
+    category: 'Flour-based',
+    imageId: 'ladoo',
+  },
+  {
+    id: '6',
+    name: 'Kaju Katli',
+    description: 'A diamond-shaped sweet made from cashews, sugar, and ghee.',
+    price: 120,
+    stock: 10,
+    category: 'Nut-based',
+    imageId: 'kaju-katli',
+  },
+];
